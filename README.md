@@ -1,9 +1,3 @@
-Here’s a professional README.md for Future Interns – Machine Learning Task 3 (Resume / Candidate Screening System).
-
-Copy this directly into your GitHub repository’s README.md file.
-
-README.md
-
 ### 📄 Resume / Candidate Screening System using Machine Learning
 
 ### 📌 Project Overview
